@@ -1,2 +1,2 @@
 # appcardapio
-cardapio para os pedidos
+First ReactJS project implementing a list of clients and it's dependencys.
