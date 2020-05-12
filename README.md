@@ -10,4 +10,9 @@ It started simple, just to control my job informations and stuff. But I decided 
     
    I feel like I already had a GREAT work and will continue to upload every improvement in here!
    
+   
+   
+   ----------------------------------------------------------------------------------------------------------------------------
+   
+   
     
